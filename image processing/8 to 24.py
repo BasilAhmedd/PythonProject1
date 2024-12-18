@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # Load the grayscale image
-grayscale_image = cv2.imread(r"C:\Users\basel.abdella\PycharmProjects\PythonProject1\butterfly.jpg",
+grayscale_image = cv2.imread(r"/lo6/butterfly.jpg",
                              cv2.IMREAD_GRAYSCALE)
 
 # Ensure the image is loaded successfully

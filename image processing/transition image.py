@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # Load the image
-image = cv2.imread(r"C:\Users\basel.abdella\PycharmProjects\PythonProject1\butterfly.jpg")
+image = cv2.imread(r"/lo6/butterfly.jpg")
 
 if image is None:
     print("Error: Image could not be loaded. Check the file path.")
